@@ -1,5 +1,3 @@
-## US Technologies Inc.
-
 #Inventory Management System
 - - - -
 
@@ -35,14 +33,4 @@ If you find any bug, and a fix for that bug, please leave a comment on the githu
    **Username** : admin | **Username** : special | **Username** : user
    **Password** : admin | **Password** : special | **Password** : user
 
-6. Good luck!  
-
-- - - -
-
-## DON'T FORGET TO GIVE ME FEEDBACK
-
-- - - -
-
-Like  [@zaisahil](https://www.github.com/zaisahil) on GitHub for more project.
-
-Don't forget to visit [ustechlogix.com](http://ustechlogix.com "US Technologies Inc.")
+6. Good luck!
